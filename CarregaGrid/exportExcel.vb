@@ -1,6 +1,6 @@
 ﻿Imports Microsoft.Office.Interop
 
-Public Class Form1
+Public Class exportExcel
     Dim XcelApp As New Excel.Application()
 
     Private Sub carregaGrid()
@@ -64,5 +64,9 @@ Public Class Form1
         XcelApp.Quit()
         XcelApp = Nothing
         Me.Close()
+    End Sub
+
+    Private Sub dgvDados_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvDados.CellContentClick
+
     End Sub
 End Class

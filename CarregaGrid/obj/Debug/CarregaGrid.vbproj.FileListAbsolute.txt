@@ -2,9 +2,10 @@ c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\bin\Debug\CarregaGrid.exe
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\bin\Debug\CarregaGrid.pdb
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\bin\Debug\CarregaGrid.xml
-c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.Form1.resources
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.Resources.resources
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.vbproj.GenerateResource.Cache
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.exe
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.xml
 c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.pdb
+c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.exportExcel.resources
+c:\users\re029391\documents\visual studio 2012\Projects\CarregaGrid\CarregaGrid\obj\Debug\CarregaGrid.AplicandoAccess.resources
